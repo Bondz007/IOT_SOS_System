@@ -34,7 +34,9 @@ The provided code snippet initializes the A9G board and manages communication fo
 ### Hardware Setup
 - Connect Xiao C2 and A9G boards as per the circuit diagram.
 - Ensure proper power supply and button connections.
+![PXL_20231028_084927701 PORTRAIT ORIGINAL](https://github.com/user-attachments/assets/aac25b5a-67af-49cc-b427-fc5796e0cdd7)
 
+![WhatsApp Image 2023-10-28 at 14 22 58_cce45486](https://github.com/user-attachments/assets/c8a7b45a-80b8-4b5f-9925-9be60912f23d)
 ### Software Setup
 - Upload the provided Arduino sketch to the Xiao C2 board.
 - Adjust configurations like SOS number and SOS button timing (SOS_Time).
@@ -44,5 +46,8 @@ The provided code snippet initializes the A9G board and manages communication fo
 - Ensure the device has a clear view of the sky for GPS reception.
 
 ## Troubleshooting
-- If GPS data retrieval fails, ensure the A9G board has an active GPS fix.
+- If GPS data retrieval
+ fails, ensure the A9G board has an active GPS fix.
 - Verify SIM card connectivity and network signal strength.
+
+
