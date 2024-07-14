@@ -1,13 +1,5 @@
 # SOS System 🆘
 
-## Problem Statement
-The increasing number of women in the workforce necessitates a safety device that ensures their security through location sharing and emergency communication capabilities.
-
-## Objective
-Develop a compatible, partially hands-free device capable of:
-- Sending live location updates to a designated guardian.
-- Initiating emergency phone calls.
-
 ## Components
 - Xiao C2 board
 - A9G board
@@ -32,7 +24,7 @@ Develop a compatible, partially hands-free device capable of:
 - Location Sharing: Automatically sends GPS coordinates to the guardian.
 - Emergency Calls: Enables two-way communication between the user and guardian.
 
-## Code Overview (Excerpt)
+## Code Overview (Refer to file attched below)
 The provided code snippet initializes the A9G board and manages communication for location sharing and emergency calls. Key functionalities include:
 - Setting up communication protocols (AT commands).
 - Managing GPS data retrieval and formatting for Google Maps links.
